@@ -27,6 +27,7 @@ body{
 
 #nic{
     color: #0ac704;
+    font-size: 0px;
 }
 .container{
     padding: 10px 10px;
@@ -69,17 +70,18 @@ nav ul li a:hover::after{
 
 .header-text{
     margin-top: 5px;
-    font-size: 3opx;
+    font-size: 70px;
     color: #08da47;
 }
 
 .header-text h1{
-    font-size: 60px;
+    font-size: 90px;
     margin-top: 20px;
 }
 
 .header-text h1 span{
     color: #ff004f;
+    font-size: 70px;
 }
 
 /*--------------------------------------------------about--------------------------------------------*/
@@ -424,7 +426,7 @@ flex-basis: 100%;
     margin-top: -40px;
     display: block;
 }
-
+h1{nav-down: bhb;}
 
 
 
